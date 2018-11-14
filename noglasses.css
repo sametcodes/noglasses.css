@@ -1,4 +1,10 @@
 body{
-    filter: blur(1.5px);
-    -webkit-filter: blur(1.5px);
+    //filter: blur(1.5px);
+    //-webkit-filter: blur(1.5px);
+}
+
+.glasses{
+  border-top: 1.5px solid #222;
+  height: 40px; width: 40px;
+  border-radius: 100%;
 }
